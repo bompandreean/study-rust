@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["NavigationAid"],"fn":["control_flow","control_flow2","introduction","operators","variables"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["associated_methods","data_structures","traits"],"struct":["Cat","House","Leon"],"trait":["Feline"]};

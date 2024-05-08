@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["change_var","find_bigger","fn_with_closure","function_ownership","ownership","print"]};
